@@ -1,4 +1,4 @@
-Monitoring leaf water content with THz and sub-THz waves
+# Monitoring leaf water content with THz and sub-THz waves
 
 This research project focuses on monitoring the water content of leaves using THz and sub-THz waves. The project involves utilizing various algorithms, such as KNN, Random Forest, Decision Tree, and SVM, to analyze the data collected from the leaves. Additionally, an ensemble learning approach was proposed as a novel method to improve the accuracy and efficiency of the analysis.
 
